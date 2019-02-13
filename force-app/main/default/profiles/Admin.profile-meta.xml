@@ -11,7 +11,11 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>test1</apexClass>
+        <apexClass>ContactsListController</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>ContactsListTest</apexClass>
         <enabled>true</enabled>
     </classAccesses>
     <custom>false</custom>
@@ -172,6 +176,10 @@
         <object>Work_Order__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
+    <pageAccesses>
+        <apexPage>ContactList</apexPage>
+        <enabled>true</enabled>
+    </pageAccesses>
     <pageAccesses>
         <apexPage>CustomSetup</apexPage>
         <enabled>true</enabled>
