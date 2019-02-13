@@ -4,4 +4,6 @@
 .salesforce
 .settings
 node_modules
+mdapi-source
 .idea
+temp/
