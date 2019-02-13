@@ -1,0 +1,30 @@
+<apex:page >
+    <apex:image url="{!$Resource.RanchHandTransparentLogo}"/>
+	<apex:pageBlock >
+    	<h1>
+            Trouble out on the Range?
+        </h1>  
+        <a href="https://ranchhandorg.force.com/support/s/">Contact Support</a>
+    </apex:pageBlock>
+    <apex:pageBlock >
+        <h1>
+            Release Notes:
+        </h1> 
+    	<apex:pageblocksection >	
+            <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam volutpat dolor non sem interdum, eu vehicula nunc sodales. Quisque in tempus turpis. Nunc fringilla nibh eu sodales gravida. Phasellus euismod ut leo eget congue. Nullam nec lorem at quam convallis mollis convallis in turpis. Fusce dolor justo, ornare vel ultrices id, vestibulum et diam. Etiam posuere pulvinar enim nec semper. Nam eleifend sodales interdum. Mauris fringilla euismod neque ac cursus. Pellentesque volutpat blandit faucibus.    
+            </p>
+			<p>
+               Ut ut porta arcu, ut consectetur diam. Sed consectetur pretium odio quis posuere. Ut facilisis ornare sapien ut dapibus. Praesent id imperdiet nisl, pretium rhoncus nisl. Sed congue tincidunt mattis. Morbi dapibus odio accumsan purus laoreet vehicula. Curabitur vulputate hendrerit imperdiet. Etiam rutrum tortor volutpat, rhoncus urna fringilla, volutpat ipsum. Nam felis turpis, dignissim vel augue sed, commodo malesuada neque. Mauris volutpat elementum nisl vitae volutpat. Sed auctor sapien vel sem elementum efficitur. Fusce faucibus pulvinar ante, sit amet condimentum magna rhoncus eget.
+            </p>
+			<p>
+               Sed vel suscipit mi. Morbi placerat turpis dolor, eget dapibus lacus auctor vitae. Nunc aliquam commodo vestibulum. Vestibulum varius dignissim ultrices. Aenean lacinia dui at sapien finibus, dapibus euismod massa efficitur. Aliquam finibus ligula ullamcorper bibendum accumsan. Aenean non feugiat lorem. Phasellus eu velit sed eros auctor sollicitudin. Vivamus pulvinar tempor commodo. Quisque sed rhoncus sem. Integer suscipit gravida euismod. Donec non tortor a dolor laoreet iaculis ac vel neque. Curabitur elit massa, aliquam nec rutrum nec, imperdiet quis neque. Phasellus metus lectus, sagittis eget volutpat eget, scelerisque eu dolor. In efficitur mollis augue, ac lobortis lectus commodo at.
+            </p>
+			<p>
+              Vestibulum at dapibus eros. In vel tellus sed tellus elementum mattis. Suspendisse vulputate eu lectus et malesuada. Duis eu eros finibus, molestie ligula at, pellentesque libero. Nulla eu sapien luctus, sagittis mauris in, rutrum nulla. Suspendisse potenti. Suspendisse mi tellus, auctor sed pretium vitae, suscipit non nisi. Aenean sit amet nibh id eros malesuada ultricies. Duis nec eros massa. In ac ultrices urna, ultricies molestie dui. Morbi ultricies risus non urna tincidunt, quis bibendum quam mattis.
+            </p>
+        </apex:pageblocksection>  
+	</apex:pageBlock> 
+
+  
+</apex:page>

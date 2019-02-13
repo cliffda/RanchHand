@@ -1,0 +1,1376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Cattle_Type__c</fullName>
+    <deprecated>false</deprecated>
+    <externalId>false</externalId>
+    <label>Cattle Breed</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Africander</fullName>
+                <default>false</default>
+                <label>Africander</label>
+            </value>
+            <value>
+                <fullName>Albères</fullName>
+                <default>false</default>
+                <label>Albères</label>
+            </value>
+            <value>
+                <fullName>Alentejana</fullName>
+                <default>false</default>
+                <label>Alentejana</label>
+            </value>
+            <value>
+                <fullName>Allmogekor</fullName>
+                <default>false</default>
+                <label>Allmogekor</label>
+            </value>
+            <value>
+                <fullName>American</fullName>
+                <default>false</default>
+                <label>American</label>
+            </value>
+            <value>
+                <fullName>American White Park</fullName>
+                <default>false</default>
+                <label>American White Park</label>
+            </value>
+            <value>
+                <fullName>Amerifax</fullName>
+                <default>false</default>
+                <label>Amerifax</label>
+            </value>
+            <value>
+                <fullName>Amrit Mahal</fullName>
+                <default>false</default>
+                <label>Amrit Mahal</label>
+            </value>
+            <value>
+                <fullName>Anatolian Black</fullName>
+                <default>false</default>
+                <label>Anatolian Black</label>
+            </value>
+            <value>
+                <fullName>Andalusian Black</fullName>
+                <default>false</default>
+                <label>Andalusian Black</label>
+            </value>
+            <value>
+                <fullName>Andalusian Grey</fullName>
+                <default>false</default>
+                <label>Andalusian Grey</label>
+            </value>
+            <value>
+                <fullName>Angeln</fullName>
+                <default>false</default>
+                <label>Angeln</label>
+            </value>
+            <value>
+                <fullName>Angus</fullName>
+                <default>false</default>
+                <label>Angus</label>
+            </value>
+            <value>
+                <fullName>Ankole</fullName>
+                <default>false</default>
+                <label>Ankole</label>
+            </value>
+            <value>
+                <fullName>Ankole-Watusi</fullName>
+                <default>false</default>
+                <label>Ankole-Watusi</label>
+            </value>
+            <value>
+                <fullName>Argentine Criollo</fullName>
+                <default>false</default>
+                <label>Argentine Criollo</label>
+            </value>
+            <value>
+                <fullName>Asturian Mountain</fullName>
+                <default>false</default>
+                <label>Asturian Mountain</label>
+            </value>
+            <value>
+                <fullName>Asturian Valley</fullName>
+                <default>false</default>
+                <label>Asturian Valley</label>
+            </value>
+            <value>
+                <fullName>Aubrac</fullName>
+                <default>false</default>
+                <label>Aubrac</label>
+            </value>
+            <value>
+                <fullName>Aulie-Ata</fullName>
+                <default>false</default>
+                <label>Aulie-Ata</label>
+            </value>
+            <value>
+                <fullName>Australian Braford</fullName>
+                <default>false</default>
+                <label>Australian Braford</label>
+            </value>
+            <value>
+                <fullName>Australian Friesian Sahiwal</fullName>
+                <default>false</default>
+                <label>Australian Friesian Sahiwal</label>
+            </value>
+            <value>
+                <fullName>Australian Lowline</fullName>
+                <default>false</default>
+                <label>Australian Lowline</label>
+            </value>
+            <value>
+                <fullName>Australian Milking Zebu</fullName>
+                <default>false</default>
+                <label>Australian Milking Zebu</label>
+            </value>
+            <value>
+                <fullName>Ayrshire</fullName>
+                <default>false</default>
+                <label>Ayrshire</label>
+            </value>
+            <value>
+                <fullName>Azaouak</fullName>
+                <default>false</default>
+                <label>Azaouak</label>
+            </value>
+            <value>
+                <fullName>Ba-Bg</fullName>
+                <default>false</default>
+                <label>Ba-Bg</label>
+            </value>
+            <value>
+                <fullName>Bachaur</fullName>
+                <default>false</default>
+                <label>Bachaur</label>
+            </value>
+            <value>
+                <fullName>Baladi</fullName>
+                <default>false</default>
+                <label>Baladi</label>
+            </value>
+            <value>
+                <fullName>Baltana Romaneasca</fullName>
+                <default>false</default>
+                <label>Baltana Romaneasca</label>
+            </value>
+            <value>
+                <fullName>Barka</fullName>
+                <default>false</default>
+                <label>Barka</label>
+            </value>
+            <value>
+                <fullName>Barzona</fullName>
+                <default>false</default>
+                <label>Barzona</label>
+            </value>
+            <value>
+                <fullName>Bazadais</fullName>
+                <default>false</default>
+                <label>Bazadais</label>
+            </value>
+            <value>
+                <fullName>Béarnais</fullName>
+                <default>false</default>
+                <label>Béarnais</label>
+            </value>
+            <value>
+                <fullName>Beefalo</fullName>
+                <default>false</default>
+                <label>Beefalo</label>
+            </value>
+            <value>
+                <fullName>Beefmaker</fullName>
+                <default>false</default>
+                <label>Beefmaker</label>
+            </value>
+            <value>
+                <fullName>Beefmaster</fullName>
+                <default>false</default>
+                <label>Beefmaster</label>
+            </value>
+            <value>
+                <fullName>Belarus Red</fullName>
+                <default>false</default>
+                <label>Belarus Red</label>
+            </value>
+            <value>
+                <fullName>Belgian Blue</fullName>
+                <default>false</default>
+                <label>Belgian Blue</label>
+            </value>
+            <value>
+                <fullName>Belgian Red</fullName>
+                <default>false</default>
+                <label>Belgian Red</label>
+            </value>
+            <value>
+                <fullName>Belmont Adaptaur</fullName>
+                <default>false</default>
+                <label>Belmont Adaptaur</label>
+            </value>
+            <value>
+                <fullName>Belmont Red</fullName>
+                <default>false</default>
+                <label>Belmont Red</label>
+            </value>
+            <value>
+                <fullName>Belted Galloway</fullName>
+                <default>false</default>
+                <label>Belted Galloway</label>
+            </value>
+            <value>
+                <fullName>Bengali</fullName>
+                <default>false</default>
+                <label>Bengali</label>
+            </value>
+            <value>
+                <fullName>Berrendas</fullName>
+                <default>false</default>
+                <label>Berrendas</label>
+            </value>
+            <value>
+                <fullName>Bhagnari</fullName>
+                <default>false</default>
+                <label>Bhagnari</label>
+            </value>
+            <value>
+                <fullName>Bh-Bz</fullName>
+                <default>false</default>
+                <label>Bh-Bz</label>
+            </value>
+            <value>
+                <fullName>Blacksided Trondheim and Norland</fullName>
+                <default>false</default>
+                <label>Blacksided Trondheim and Norland</label>
+            </value>
+            <value>
+                <fullName>Blanca Cacereña</fullName>
+                <default>false</default>
+                <label>Blanca Cacereña</label>
+            </value>
+            <value>
+                <fullName>Blanco Orejinegro</fullName>
+                <default>false</default>
+                <label>Blanco Orejinegro</label>
+            </value>
+            <value>
+                <fullName>Blonde d&#39;Aquitaine</fullName>
+                <default>false</default>
+                <label>Blonde d&#39;Aquitaine</label>
+            </value>
+            <value>
+                <fullName>Bonsmara</fullName>
+                <default>false</default>
+                <label>Bonsmara</label>
+            </value>
+            <value>
+                <fullName>Boran</fullName>
+                <default>false</default>
+                <label>Boran</label>
+            </value>
+            <value>
+                <fullName>Bordelais</fullName>
+                <default>false</default>
+                <label>Bordelais</label>
+            </value>
+            <value>
+                <fullName>Braford</fullName>
+                <default>false</default>
+                <label>Braford</label>
+            </value>
+            <value>
+                <fullName>Brahman</fullName>
+                <default>false</default>
+                <label>Brahman</label>
+            </value>
+            <value>
+                <fullName>Brahmousin</fullName>
+                <default>false</default>
+                <label>Brahmousin</label>
+            </value>
+            <value>
+                <fullName>Brangus</fullName>
+                <default>false</default>
+                <label>Brangus</label>
+            </value>
+            <value>
+                <fullName>Braunvieh</fullName>
+                <default>false</default>
+                <label>Braunvieh</label>
+            </value>
+            <value>
+                <fullName>British White</fullName>
+                <default>false</default>
+                <label>British White</label>
+            </value>
+            <value>
+                <fullName>Brown Swiss</fullName>
+                <default>false</default>
+                <label>Brown Swiss</label>
+            </value>
+            <value>
+                <fullName>Busa</fullName>
+                <default>false</default>
+                <label>Busa</label>
+            </value>
+            <value>
+                <fullName>Cachena</fullName>
+                <default>false</default>
+                <label>Cachena</label>
+            </value>
+            <value>
+                <fullName>Canadienne</fullName>
+                <default>false</default>
+                <label>Canadienne</label>
+            </value>
+            <value>
+                <fullName>Canary Island</fullName>
+                <default>false</default>
+                <label>Canary Island</label>
+            </value>
+            <value>
+                <fullName>Canchim</fullName>
+                <default>false</default>
+                <label>Canchim</label>
+            </value>
+            <value>
+                <fullName>Carinthian Blond</fullName>
+                <default>false</default>
+                <label>Carinthian Blond</label>
+            </value>
+            <value>
+                <fullName>Caucasian</fullName>
+                <default>false</default>
+                <label>Caucasian</label>
+            </value>
+            <value>
+                <fullName>Channi</fullName>
+                <default>false</default>
+                <label>Channi</label>
+            </value>
+            <value>
+                <fullName>Charbray</fullName>
+                <default>false</default>
+                <label>Charbray</label>
+            </value>
+            <value>
+                <fullName>Charolais</fullName>
+                <default>false</default>
+                <label>Charolais</label>
+            </value>
+            <value>
+                <fullName>Chianina</fullName>
+                <default>false</default>
+                <label>Chianina</label>
+            </value>
+            <value>
+                <fullName>Chinampo</fullName>
+                <default>false</default>
+                <label>Chinampo</label>
+            </value>
+            <value>
+                <fullName>Chinese Black-and-White</fullName>
+                <default>false</default>
+                <label>Chinese Black-and-White</label>
+            </value>
+            <value>
+                <fullName>Cholistani</fullName>
+                <default>false</default>
+                <label>Cholistani</label>
+            </value>
+            <value>
+                <fullName>Corriente</fullName>
+                <default>false</default>
+                <label>Corriente</label>
+            </value>
+            <value>
+                <fullName>Costeño con Cuernos</fullName>
+                <default>false</default>
+                <label>Costeño con Cuernos</label>
+            </value>
+            <value>
+                <fullName>Dajal</fullName>
+                <default>false</default>
+                <label>Dajal</label>
+            </value>
+            <value>
+                <fullName>Damascus</fullName>
+                <default>false</default>
+                <label>Damascus</label>
+            </value>
+            <value>
+                <fullName>Damietta</fullName>
+                <default>false</default>
+                <label>Damietta</label>
+            </value>
+            <value>
+                <fullName>Dangi</fullName>
+                <default>false</default>
+                <label>Dangi</label>
+            </value>
+            <value>
+                <fullName>Danish Jersey</fullName>
+                <default>false</default>
+                <label>Danish Jersey</label>
+            </value>
+            <value>
+                <fullName>Danish Red</fullName>
+                <default>false</default>
+                <label>Danish Red</label>
+            </value>
+            <value>
+                <fullName>Deoni</fullName>
+                <default>false</default>
+                <label>Deoni</label>
+            </value>
+            <value>
+                <fullName>Devon</fullName>
+                <default>false</default>
+                <label>Devon</label>
+            </value>
+            <value>
+                <fullName>Dexter</fullName>
+                <default>false</default>
+                <label>Dexter</label>
+            </value>
+            <value>
+                <fullName>Dhanni</fullName>
+                <default>false</default>
+                <label>Dhanni</label>
+            </value>
+            <value>
+                <fullName>Droughtmaster</fullName>
+                <default>false</default>
+                <label>Droughtmaster</label>
+            </value>
+            <value>
+                <fullName>Dulong</fullName>
+                <default>false</default>
+                <label>Dulong</label>
+            </value>
+            <value>
+                <fullName>Dutch Belted</fullName>
+                <default>false</default>
+                <label>Dutch Belted</label>
+            </value>
+            <value>
+                <fullName>Dutch Friesian</fullName>
+                <default>false</default>
+                <label>Dutch Friesian</label>
+            </value>
+            <value>
+                <fullName>Dølafe</fullName>
+                <default>false</default>
+                <label>Dølafe</label>
+            </value>
+            <value>
+                <fullName>East Anatolian Red</fullName>
+                <default>false</default>
+                <label>East Anatolian Red</label>
+            </value>
+            <value>
+                <fullName>Enderby Island</fullName>
+                <default>false</default>
+                <label>Enderby Island</label>
+            </value>
+            <value>
+                <fullName>English Longhorn</fullName>
+                <default>false</default>
+                <label>English Longhorn</label>
+            </value>
+            <value>
+                <fullName>Estonian Red</fullName>
+                <default>false</default>
+                <label>Estonian Red</label>
+            </value>
+            <value>
+                <fullName>Evolène</fullName>
+                <default>false</default>
+                <label>Evolène</label>
+            </value>
+            <value>
+                <fullName>Fighting Bull</fullName>
+                <default>false</default>
+                <label>Fighting Bull</label>
+            </value>
+            <value>
+                <fullName>Finnish</fullName>
+                <default>false</default>
+                <label>Finnish</label>
+            </value>
+            <value>
+                <fullName>Fjall</fullName>
+                <default>false</default>
+                <label>Fjall</label>
+            </value>
+            <value>
+                <fullName>Florida Cracker/Pineywoods</fullName>
+                <default>false</default>
+                <label>Florida Cracker/Pineywoods</label>
+            </value>
+            <value>
+                <fullName>Fulani Sudanese</fullName>
+                <default>false</default>
+                <label>Fulani Sudanese</label>
+            </value>
+            <value>
+                <fullName>Galician Blond</fullName>
+                <default>false</default>
+                <label>Galician Blond</label>
+            </value>
+            <value>
+                <fullName>Galloway</fullName>
+                <default>false</default>
+                <label>Galloway</label>
+            </value>
+            <value>
+                <fullName>Gaolao</fullName>
+                <default>false</default>
+                <label>Gaolao</label>
+            </value>
+            <value>
+                <fullName>Gascon</fullName>
+                <default>false</default>
+                <label>Gascon</label>
+            </value>
+            <value>
+                <fullName>Gelbray</fullName>
+                <default>false</default>
+                <label>Gelbray</label>
+            </value>
+            <value>
+                <fullName>Gelbvieh</fullName>
+                <default>false</default>
+                <label>Gelbvieh</label>
+            </value>
+            <value>
+                <fullName>German Angus</fullName>
+                <default>false</default>
+                <label>German Angus</label>
+            </value>
+            <value>
+                <fullName>German Red Pied</fullName>
+                <default>false</default>
+                <label>German Red Pied</label>
+            </value>
+            <value>
+                <fullName>Gir</fullName>
+                <default>false</default>
+                <label>Gir</label>
+            </value>
+            <value>
+                <fullName>Glan</fullName>
+                <default>false</default>
+                <label>Glan</label>
+            </value>
+            <value>
+                <fullName>Gloucester</fullName>
+                <default>false</default>
+                <label>Gloucester</label>
+            </value>
+            <value>
+                <fullName>Gobra</fullName>
+                <default>false</default>
+                <label>Gobra</label>
+            </value>
+            <value>
+                <fullName>Greek Shorthorn</fullName>
+                <default>false</default>
+                <label>Greek Shorthorn</label>
+            </value>
+            <value>
+                <fullName>Greek Steppe</fullName>
+                <default>false</default>
+                <label>Greek Steppe</label>
+            </value>
+            <value>
+                <fullName>Groningen Whiteheaded</fullName>
+                <default>false</default>
+                <label>Groningen Whiteheaded</label>
+            </value>
+            <value>
+                <fullName>Gudali</fullName>
+                <default>false</default>
+                <label>Gudali</label>
+            </value>
+            <value>
+                <fullName>Guernsey</fullName>
+                <default>false</default>
+                <label>Guernsey</label>
+            </value>
+            <value>
+                <fullName>Guzerat</fullName>
+                <default>false</default>
+                <label>Guzerat</label>
+            </value>
+            <value>
+                <fullName>Hallikar</fullName>
+                <default>false</default>
+                <label>Hallikar</label>
+            </value>
+            <value>
+                <fullName>Hariana</fullName>
+                <default>false</default>
+                <label>Hariana</label>
+            </value>
+            <value>
+                <fullName>Hartón</fullName>
+                <default>false</default>
+                <label>Hartón</label>
+            </value>
+            <value>
+                <fullName>Hays Converter</fullName>
+                <default>false</default>
+                <label>Hays Converter</label>
+            </value>
+            <value>
+                <fullName>Hereford</fullName>
+                <default>false</default>
+                <label>Hereford</label>
+            </value>
+            <value>
+                <fullName>Herens</fullName>
+                <default>false</default>
+                <label>Herens</label>
+            </value>
+            <value>
+                <fullName>Highland</fullName>
+                <default>false</default>
+                <label>Highland</label>
+            </value>
+            <value>
+                <fullName>Hinterwald</fullName>
+                <default>false</default>
+                <label>Hinterwald</label>
+            </value>
+            <value>
+                <fullName>Holando-Argentino</fullName>
+                <default>false</default>
+                <label>Holando-Argentino</label>
+            </value>
+            <value>
+                <fullName>Holstein</fullName>
+                <default>false</default>
+                <label>Holstein</label>
+            </value>
+            <value>
+                <fullName>Horro</fullName>
+                <default>false</default>
+                <label>Horro</label>
+            </value>
+            <value>
+                <fullName>Hungarian Grey</fullName>
+                <default>false</default>
+                <label>Hungarian Grey</label>
+            </value>
+            <value>
+                <fullName>Icelandic</fullName>
+                <default>false</default>
+                <label>Icelandic</label>
+            </value>
+            <value>
+                <fullName>Illawarra</fullName>
+                <default>false</default>
+                <label>Illawarra</label>
+            </value>
+            <value>
+                <fullName>Indo-Brazilian</fullName>
+                <default>false</default>
+                <label>Indo-Brazilian</label>
+            </value>
+            <value>
+                <fullName>Irish Moiled</fullName>
+                <default>false</default>
+                <label>Irish Moiled</label>
+            </value>
+            <value>
+                <fullName>Israeli Holstein</fullName>
+                <default>false</default>
+                <label>Israeli Holstein</label>
+            </value>
+            <value>
+                <fullName>Israeli Red</fullName>
+                <default>false</default>
+                <label>Israeli Red</label>
+            </value>
+            <value>
+                <fullName>Istoben</fullName>
+                <default>false</default>
+                <label>Istoben</label>
+            </value>
+            <value>
+                <fullName>Jamaica Black</fullName>
+                <default>false</default>
+                <label>Jamaica Black</label>
+            </value>
+            <value>
+                <fullName>Jamaica Hope</fullName>
+                <default>false</default>
+                <label>Jamaica Hope</label>
+            </value>
+            <value>
+                <fullName>Jamaica Red</fullName>
+                <default>false</default>
+                <label>Jamaica Red</label>
+            </value>
+            <value>
+                <fullName>Jaulan</fullName>
+                <default>false</default>
+                <label>Jaulan</label>
+            </value>
+            <value>
+                <fullName>Jersey</fullName>
+                <default>false</default>
+                <label>Jersey</label>
+            </value>
+            <value>
+                <fullName>Kangayam</fullName>
+                <default>false</default>
+                <label>Kangayam</label>
+            </value>
+            <value>
+                <fullName>Kankrej</fullName>
+                <default>false</default>
+                <label>Kankrej</label>
+            </value>
+            <value>
+                <fullName>Karan Fries</fullName>
+                <default>false</default>
+                <label>Karan Fries</label>
+            </value>
+            <value>
+                <fullName>Karan Swiss</fullName>
+                <default>false</default>
+                <label>Karan Swiss</label>
+            </value>
+            <value>
+                <fullName>Kazakh</fullName>
+                <default>false</default>
+                <label>Kazakh</label>
+            </value>
+            <value>
+                <fullName>Kenwariya</fullName>
+                <default>false</default>
+                <label>Kenwariya</label>
+            </value>
+            <value>
+                <fullName>Kerry</fullName>
+                <default>false</default>
+                <label>Kerry</label>
+            </value>
+            <value>
+                <fullName>Kherigarh</fullName>
+                <default>false</default>
+                <label>Kherigarh</label>
+            </value>
+            <value>
+                <fullName>Khillari</fullName>
+                <default>false</default>
+                <label>Khillari</label>
+            </value>
+            <value>
+                <fullName>Kholmogory</fullName>
+                <default>false</default>
+                <label>Kholmogory</label>
+            </value>
+            <value>
+                <fullName>Kilis</fullName>
+                <default>false</default>
+                <label>Kilis</label>
+            </value>
+            <value>
+                <fullName>Krishna Valley</fullName>
+                <default>false</default>
+                <label>Krishna Valley</label>
+            </value>
+            <value>
+                <fullName>Kurdi</fullName>
+                <default>false</default>
+                <label>Kurdi</label>
+            </value>
+            <value>
+                <fullName>Kuri</fullName>
+                <default>false</default>
+                <label>Kuri</label>
+            </value>
+            <value>
+                <fullName>Latvian Brown</fullName>
+                <default>false</default>
+                <label>Latvian Brown</label>
+            </value>
+            <value>
+                <fullName>Limousin</fullName>
+                <default>false</default>
+                <label>Limousin</label>
+            </value>
+            <value>
+                <fullName>Limpurger</fullName>
+                <default>false</default>
+                <label>Limpurger</label>
+            </value>
+            <value>
+                <fullName>Lincoln Red</fullName>
+                <default>false</default>
+                <label>Lincoln Red</label>
+            </value>
+            <value>
+                <fullName>Lithuanian Red</fullName>
+                <default>false</default>
+                <label>Lithuanian Red</label>
+            </value>
+            <value>
+                <fullName>Lohani</fullName>
+                <default>false</default>
+                <label>Lohani</label>
+            </value>
+            <value>
+                <fullName>Lourdais</fullName>
+                <default>false</default>
+                <label>Lourdais</label>
+            </value>
+            <value>
+                <fullName>Luing</fullName>
+                <default>false</default>
+                <label>Luing</label>
+            </value>
+            <value>
+                <fullName>Madagascar Zebu</fullName>
+                <default>false</default>
+                <label>Madagascar Zebu</label>
+            </value>
+            <value>
+                <fullName>Maine Anjou</fullName>
+                <default>false</default>
+                <label>Maine Anjou</label>
+            </value>
+            <value>
+                <fullName>Malvi</fullName>
+                <default>false</default>
+                <label>Malvi</label>
+            </value>
+            <value>
+                <fullName>Mandalong</fullName>
+                <default>false</default>
+                <label>Mandalong</label>
+            </value>
+            <value>
+                <fullName>Marchigiana</fullName>
+                <default>false</default>
+                <label>Marchigiana</label>
+            </value>
+            <value>
+                <fullName>Maremmana</fullName>
+                <default>false</default>
+                <label>Maremmana</label>
+            </value>
+            <value>
+                <fullName>Masai</fullName>
+                <default>false</default>
+                <label>Masai</label>
+            </value>
+            <value>
+                <fullName>Mashona</fullName>
+                <default>false</default>
+                <label>Mashona</label>
+            </value>
+            <value>
+                <fullName>Maure</fullName>
+                <default>false</default>
+                <label>Maure</label>
+            </value>
+            <value>
+                <fullName>Mazandarani</fullName>
+                <default>false</default>
+                <label>Mazandarani</label>
+            </value>
+            <value>
+                <fullName>Meuse-Rhine-Yssel</fullName>
+                <default>false</default>
+                <label>Meuse-Rhine-Yssel</label>
+            </value>
+            <value>
+                <fullName>Mewati</fullName>
+                <default>false</default>
+                <label>Mewati</label>
+            </value>
+            <value>
+                <fullName>Milking Devon</fullName>
+                <default>false</default>
+                <label>Milking Devon</label>
+            </value>
+            <value>
+                <fullName>Milking Shorthorn</fullName>
+                <default>false</default>
+                <label>Milking Shorthorn</label>
+            </value>
+            <value>
+                <fullName>Mirandesa</fullName>
+                <default>false</default>
+                <label>Mirandesa</label>
+            </value>
+            <value>
+                <fullName>Modicana</fullName>
+                <default>false</default>
+                <label>Modicana</label>
+            </value>
+            <value>
+                <fullName>Mongolian</fullName>
+                <default>false</default>
+                <label>Mongolian</label>
+            </value>
+            <value>
+                <fullName>Montbéliard</fullName>
+                <default>false</default>
+                <label>Montbéliard</label>
+            </value>
+            <value>
+                <fullName>Morucha</fullName>
+                <default>false</default>
+                <label>Morucha</label>
+            </value>
+            <value>
+                <fullName>Murboden</fullName>
+                <default>false</default>
+                <label>Murboden</label>
+            </value>
+            <value>
+                <fullName>Murray Grey</fullName>
+                <default>false</default>
+                <label>Murray Grey</label>
+            </value>
+            <value>
+                <fullName>Muturu</fullName>
+                <default>false</default>
+                <label>Muturu</label>
+            </value>
+            <value>
+                <fullName>N&#39;dama</fullName>
+                <default>false</default>
+                <label>N&#39;dama</label>
+            </value>
+            <value>
+                <fullName>Nagori</fullName>
+                <default>false</default>
+                <label>Nagori</label>
+            </value>
+            <value>
+                <fullName>Nanyang</fullName>
+                <default>false</default>
+                <label>Nanyang</label>
+            </value>
+            <value>
+                <fullName>Nelore</fullName>
+                <default>false</default>
+                <label>Nelore</label>
+            </value>
+            <value>
+                <fullName>Nguni</fullName>
+                <default>false</default>
+                <label>Nguni</label>
+            </value>
+            <value>
+                <fullName>Nimari</fullName>
+                <default>false</default>
+                <label>Nimari</label>
+            </value>
+            <value>
+                <fullName>Normande</fullName>
+                <default>false</default>
+                <label>Normande</label>
+            </value>
+            <value>
+                <fullName>Norwegian Red</fullName>
+                <default>false</default>
+                <label>Norwegian Red</label>
+            </value>
+            <value>
+                <fullName>Ongole</fullName>
+                <default>false</default>
+                <label>Ongole</label>
+            </value>
+            <value>
+                <fullName>Orma Boran</fullName>
+                <default>false</default>
+                <label>Orma Boran</label>
+            </value>
+            <value>
+                <fullName>Oropa</fullName>
+                <default>false</default>
+                <label>Oropa</label>
+            </value>
+            <value>
+                <fullName>Ovambo</fullName>
+                <default>false</default>
+                <label>Ovambo</label>
+            </value>
+            <value>
+                <fullName>Parthenais</fullName>
+                <default>false</default>
+                <label>Parthenais</label>
+            </value>
+            <value>
+                <fullName>Philippine Native</fullName>
+                <default>false</default>
+                <label>Philippine Native</label>
+            </value>
+            <value>
+                <fullName>Piedmontese</fullName>
+                <default>false</default>
+                <label>Piedmontese</label>
+            </value>
+            <value>
+                <fullName>Pinzgauer</fullName>
+                <default>false</default>
+                <label>Pinzgauer</label>
+            </value>
+            <value>
+                <fullName>Polish Red</fullName>
+                <default>false</default>
+                <label>Polish Red</label>
+            </value>
+            <value>
+                <fullName>Polled Hereford</fullName>
+                <default>false</default>
+                <label>Polled Hereford</label>
+            </value>
+            <value>
+                <fullName>Ponwar</fullName>
+                <default>false</default>
+                <label>Ponwar</label>
+            </value>
+            <value>
+                <fullName>Qinchuan</fullName>
+                <default>false</default>
+                <label>Qinchuan</label>
+            </value>
+            <value>
+                <fullName>Rath</fullName>
+                <default>false</default>
+                <label>Rath</label>
+            </value>
+            <value>
+                <fullName>Rathi</fullName>
+                <default>false</default>
+                <label>Rathi</label>
+            </value>
+            <value>
+                <fullName>Rätien Gray</fullName>
+                <default>false</default>
+                <label>Rätien Gray</label>
+            </value>
+            <value>
+                <fullName>Red Angus</fullName>
+                <default>false</default>
+                <label>Red Angus</label>
+            </value>
+            <value>
+                <fullName>Red Brangus</fullName>
+                <default>false</default>
+                <label>Red Brangus</label>
+            </value>
+            <value>
+                <fullName>Red Fulani</fullName>
+                <default>false</default>
+                <label>Red Fulani</label>
+            </value>
+            <value>
+                <fullName>Red Pied Friesian</fullName>
+                <default>false</default>
+                <label>Red Pied Friesian</label>
+            </value>
+            <value>
+                <fullName>Red Poll</fullName>
+                <default>false</default>
+                <label>Red Poll</label>
+            </value>
+            <value>
+                <fullName>Red Polled Østland</fullName>
+                <default>false</default>
+                <label>Red Polled Østland</label>
+            </value>
+            <value>
+                <fullName>Red Sindhi</fullName>
+                <default>false</default>
+                <label>Red Sindhi</label>
+            </value>
+            <value>
+                <fullName>Red Steppe</fullName>
+                <default>false</default>
+                <label>Red Steppe</label>
+            </value>
+            <value>
+                <fullName>Reggiana</fullName>
+                <default>false</default>
+                <label>Reggiana</label>
+            </value>
+            <value>
+                <fullName>Retinta</fullName>
+                <default>false</default>
+                <label>Retinta</label>
+            </value>
+            <value>
+                <fullName>Rojhan</fullName>
+                <default>false</default>
+                <label>Rojhan</label>
+            </value>
+            <value>
+                <fullName>Romagnola</fullName>
+                <default>false</default>
+                <label>Romagnola</label>
+            </value>
+            <value>
+                <fullName>Romosinuano</fullName>
+                <default>false</default>
+                <label>Romosinuano</label>
+            </value>
+            <value>
+                <fullName>Russian Black Pied</fullName>
+                <default>false</default>
+                <label>Russian Black Pied</label>
+            </value>
+            <value>
+                <fullName>RX3</fullName>
+                <default>false</default>
+                <label>RX3</label>
+            </value>
+            <value>
+                <fullName>Sahiwal</fullName>
+                <default>false</default>
+                <label>Sahiwal</label>
+            </value>
+            <value>
+                <fullName>Salers</fullName>
+                <default>false</default>
+                <label>Salers</label>
+            </value>
+            <value>
+                <fullName>Salorn</fullName>
+                <default>false</default>
+                <label>Salorn</label>
+            </value>
+            <value>
+                <fullName>Sanhe</fullName>
+                <default>false</default>
+                <label>Sanhe</label>
+            </value>
+            <value>
+                <fullName>San Martinero</fullName>
+                <default>false</default>
+                <label>San Martinero</label>
+            </value>
+            <value>
+                <fullName>Santa Cruz</fullName>
+                <default>false</default>
+                <label>Santa Cruz</label>
+            </value>
+            <value>
+                <fullName>Santa Gertrudis</fullName>
+                <default>false</default>
+                <label>Santa Gertrudis</label>
+            </value>
+            <value>
+                <fullName>Sarabi</fullName>
+                <default>false</default>
+                <label>Sarabi</label>
+            </value>
+            <value>
+                <fullName>Sa-Sg</fullName>
+                <default>false</default>
+                <label>Sa-Sg</label>
+            </value>
+            <value>
+                <fullName>Senepol</fullName>
+                <default>false</default>
+                <label>Senepol</label>
+            </value>
+            <value>
+                <fullName>Sharabi</fullName>
+                <default>false</default>
+                <label>Sharabi</label>
+            </value>
+            <value>
+                <fullName>Shetland</fullName>
+                <default>false</default>
+                <label>Shetland</label>
+            </value>
+            <value>
+                <fullName>Shorthorn</fullName>
+                <default>false</default>
+                <label>Shorthorn</label>
+            </value>
+            <value>
+                <fullName>Sh-Sz</fullName>
+                <default>false</default>
+                <label>Sh-Sz</label>
+            </value>
+            <value>
+                <fullName>Siboney</fullName>
+                <default>false</default>
+                <label>Siboney</label>
+            </value>
+            <value>
+                <fullName>Simbrah</fullName>
+                <default>false</default>
+                <label>Simbrah</label>
+            </value>
+            <value>
+                <fullName>Simmental</fullName>
+                <default>false</default>
+                <label>Simmental</label>
+            </value>
+            <value>
+                <fullName>Siri</fullName>
+                <default>false</default>
+                <label>Siri</label>
+            </value>
+            <value>
+                <fullName>Slovenian Cika</fullName>
+                <default>false</default>
+                <label>Slovenian Cika</label>
+            </value>
+            <value>
+                <fullName>South Devon</fullName>
+                <default>false</default>
+                <label>South Devon</label>
+            </value>
+            <value>
+                <fullName>Sussex</fullName>
+                <default>false</default>
+                <label>Sussex</label>
+            </value>
+            <value>
+                <fullName>Swedish Friesian</fullName>
+                <default>false</default>
+                <label>Swedish Friesian</label>
+            </value>
+            <value>
+                <fullName>Swedish Red-and-White</fullName>
+                <default>false</default>
+                <label>Swedish Red-and-White</label>
+            </value>
+            <value>
+                <fullName>Swedish Red Polled</fullName>
+                <default>false</default>
+                <label>Swedish Red Polled</label>
+            </value>
+            <value>
+                <fullName>Tarentaise</fullName>
+                <default>false</default>
+                <label>Tarentaise</label>
+            </value>
+            <value>
+                <fullName>Telemark</fullName>
+                <default>false</default>
+                <label>Telemark</label>
+            </value>
+            <value>
+                <fullName>Texas Longhorn</fullName>
+                <default>false</default>
+                <label>Texas Longhorn</label>
+            </value>
+            <value>
+                <fullName>Texon</fullName>
+                <default>false</default>
+                <label>Texon</label>
+            </value>
+            <value>
+                <fullName>Tharparkar</fullName>
+                <default>false</default>
+                <label>Tharparkar</label>
+            </value>
+            <value>
+                <fullName>Tswana</fullName>
+                <default>false</default>
+                <label>Tswana</label>
+            </value>
+            <value>
+                <fullName>Tuli</fullName>
+                <default>false</default>
+                <label>Tuli</label>
+            </value>
+            <value>
+                <fullName>Turkish Grey Steppe</fullName>
+                <default>false</default>
+                <label>Turkish Grey Steppe</label>
+            </value>
+            <value>
+                <fullName>Ukrainian Beef</fullName>
+                <default>false</default>
+                <label>Ukrainian Beef</label>
+            </value>
+            <value>
+                <fullName>Ukrainian Grey</fullName>
+                <default>false</default>
+                <label>Ukrainian Grey</label>
+            </value>
+            <value>
+                <fullName>Ukrainian Whitehead</fullName>
+                <default>false</default>
+                <label>Ukrainian Whitehead</label>
+            </value>
+            <value>
+                <fullName>Umblachery</fullName>
+                <default>false</default>
+                <label>Umblachery</label>
+            </value>
+            <value>
+                <fullName>Ural Black Pied</fullName>
+                <default>false</default>
+                <label>Ural Black Pied</label>
+            </value>
+            <value>
+                <fullName>Vestland Fjord</fullName>
+                <default>false</default>
+                <label>Vestland Fjord</label>
+            </value>
+            <value>
+                <fullName>Vestland Red Polled</fullName>
+                <default>false</default>
+                <label>Vestland Red Polled</label>
+            </value>
+            <value>
+                <fullName>Vosges</fullName>
+                <default>false</default>
+                <label>Vosges</label>
+            </value>
+            <value>
+                <fullName>Wagyu</fullName>
+                <default>false</default>
+                <label>Wagyu</label>
+            </value>
+            <value>
+                <fullName>Welsh Black</fullName>
+                <default>false</default>
+                <label>Welsh Black</label>
+            </value>
+            <value>
+                <fullName>White Cáceres</fullName>
+                <default>false</default>
+                <label>White Cáceres</label>
+            </value>
+            <value>
+                <fullName>White Park</fullName>
+                <default>false</default>
+                <label>White Park</label>
+            </value>
+            <value>
+                <fullName>Xinjiang Brown</fullName>
+                <default>false</default>
+                <label>Xinjiang Brown</label>
+            </value>
+            <value>
+                <fullName>Yanbian</fullName>
+                <default>false</default>
+                <label>Yanbian</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

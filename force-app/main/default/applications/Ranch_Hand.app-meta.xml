@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <defaultLandingTab>standard-home</defaultLandingTab>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>Ranch Hand</label>
+    <logo>RanchHand/Ranch_Hand_Logo</logo>
+    <tabs>standard-Account</tabs>
+    <tabs>standard-Contact</tabs>
+    <tabs>Range__c</tabs>
+    <tabs>Herd__c</tabs>
+    <tabs>Work_Order__c</tabs>
+    <tabs>RanchHand_Support</tabs>
+</CustomApplication>
